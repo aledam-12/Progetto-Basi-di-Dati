@@ -5,6 +5,7 @@
             <li> Go in the src/queries folder, then in PrimaQuery, change pwd variable's value (11 row) with your SQL Password </li>
         </ol>
     After these operations the project will be ready to launch. Enjoy it!
-    > [!TIP]
-    > For more question contact me. Alessandro D'Ambrosio
   </p>
+
+  > [!Important]
+  > For more question contact me. Alessandro D'Ambrosio
